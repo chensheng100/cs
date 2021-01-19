@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/chensheng100/cs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chensheng100/cs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ <!DOCTYPE html>
+ <html>
+	<head>
+		<meta charset="utf-8" >
+		<meta name="keywords" content="HTML5,Javascript,前端，java" >
+		<meta name="description" content="发布HTML5、js等相关信息" >
+		<meta http-equiv=“refresh" content="3; url=https://www.163.com" >
+		<title>常用标签练习</title>
+	
+	</head>
+ 
+	<body>
+	<!--标题、段落、换行、实体、图片-->
+	
+		<h1>动手练习所学内容</h1><br />
+		<p>锄禾<br />
+			锄禾日当午，<br />
+			汗滴禾下土；<br />
+			谁知盘中餐，<br />
+			粒粒皆辛苦。<br />
+		</p>
+		
+		<p>来做一道数学判断题：<br /> 
+			5&times;6&nbsp;&gt;&nbsp;5+6&nbsp;<br />
+			<img src="jiayou.png" alt="加油学习，坚持不懈"/>
+		
+		
+		</p>
